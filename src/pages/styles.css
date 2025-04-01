@@ -1,0 +1,9 @@
+h1 {
+    color: aqua;
+    font-size: 1.4rem;
+}
+
+p {
+    box-shadow: inset;
+    color: aquamarine;
+}
