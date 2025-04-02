@@ -13,6 +13,7 @@ export default function Index() {
                 <Navigator destino="/navegacao" />
                 <br></br>
                 <Navigator destino="state"/>
+                <Navigator destino="integration"/>
             </div>
         <Layout>
           
