@@ -9,6 +9,7 @@ export default function Index() {
                 <Link href="/examples">Exemplos</Link>
                 <h1>Olá</h1>
                 <Navigator destino="examples" />
+                <Navigator destino="/navegacao" />
             </div>
         </Layout>
     );
